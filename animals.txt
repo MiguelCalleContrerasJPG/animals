@@ -1,4 +1,5 @@
 MiniDog:
+MegaLion
 Cat
 MiniCat
 MiniMiniCat
